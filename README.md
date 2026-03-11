@@ -65,9 +65,7 @@ I built Seat Buddy after realizing how often people end up with blocked views at
 
 ## Demo
 
-<video controls width="700">
-  <source src="https://github.com/user-attachments/assets/127fb67e-61b1-411d-a584-fb8bb3e6b156" type="video/mp4">
-</video>
+ https://github.com/user-attachments/assets/127fb67e-61b1-411d-a584-fb8bb3e6b156
 
 
 
