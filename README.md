@@ -63,8 +63,7 @@ It then renders a visual approximation of what the stage might look like from th
 I built Seat Buddy after realizing how often people end up with blocked views at concerts. The goal was to create a quick tool that helps people estimate their real experience before purchasing tickets.
 
 
-URL to test: https://stage-view-buddy.lovable.app
-https://github.com/user-attachments/assets/127fb67e-61b1-411d-a584-fb8bb3e6b156
+DEMO: https://github.com/user-attachments/assets/127fb67e-61b1-411d-a584-fb8bb3e6b156
 
 
 
